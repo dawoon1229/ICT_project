@@ -252,3 +252,8 @@ Dart 언어사용…  플러터 안에 기능이 없을 수 있음…
 ![IMG_4819](https://github.com/dawoon1229/ICT_project/assets/164113758/6b9daa79-02a5-4067-87cc-86ea27303981)
 ![IMG_4821](https://github.com/dawoon1229/ICT_project/assets/164113758/76de22ad-c058-48f1-b40e-c09595b066ec)
 ![IMG_4820](https://github.com/dawoon1229/ICT_project/assets/164113758/14270234-7961-4044-bd92-6c34538c2d77)
+
+---
+
+![DALL·E 2024-04-14 17 35 37 - Create a set of four icons based on the sketch provided  The first icon should be a bowl with a question mark, symbolizing a feature for customizing f](https://github.com/dawoon1229/ICT_project/assets/164113758/b678b704-544a-4619-9bb4-f4ce68673869)
+
