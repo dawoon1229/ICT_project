@@ -125,4 +125,4 @@ WHERE
 
 ---
 
-[사나래개발일정.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/12bbde16-30cc-4785-ac54-4513c54de876/bc7d7034-56bf-43b1-840c-b3b280f81072/%EC%82%AC%EB%82%98%EB%9E%98%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A0%95.xlsx)
+[사나래개발일정.xlsx](https://github.com/dawoon1229/ICT_project/files/15415321/default.xlsx)
