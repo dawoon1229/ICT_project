@@ -20,7 +20,8 @@ python -m venv ./env
 
 .gitignore에 env/ 추가
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c371114d-0c61-4247-bc94-cf672e165984/c70aece6-4da6-4dc2-8aae-2925e52bf013/Untitled.png)
+<img width="442" alt="Untitled (7)" src="https://github.com/dawoon1229/ICT_project/assets/164113758/53c4c414-41ff-4cfb-a5b7-1b2e90745a4c">
+
 
 운영체제에 따라 입력
 
@@ -689,7 +690,8 @@ temperature=0.1 gpt의 값이 낮을수록 창의성 낮아짐
 
 chefgpt
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c371114d-0c61-4247-bc94-cf672e165984/290ed9a4-d8ef-4bee-800b-7558571b5aca/Untitled.png)
+<img width="986" alt="Untitled (8)" src="https://github.com/dawoon1229/ICT_project/assets/164113758/4826bbee-1273-45a1-9514-84c7d40dbaef">
+
 
 winget설치후 콘솔에 명령어 입력
 
