@@ -62,6 +62,8 @@ openai api는 고급 자연어 처리를 포함한 다양한 ai기능을 제공�
 다음은 문제점과 해결방안에 대해 설명드리겠습니다.
 ---
 
+문제점과 해결방안 부분은 중간보고양식과 조금 벗어난 느낌이라 삭제하였다.
+
 [ICT멘토링사나래_중간보고.pptx](https://github.com/dawoon1229/ICT_project/files/15467010/ICT._.pptx)
 
 
