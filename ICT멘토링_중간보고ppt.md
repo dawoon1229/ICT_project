@@ -68,6 +68,7 @@ openai api는 고급 자연어 처리를 포함한 다양한 ai기능을 제공�
 ---
 
 재수정
+저번 수요일 있었던 발표 ppt가 중간보고양식에서 살짝 어긋난 감이 있어 수정하였다.
 
 [ICT멘토링중간보고_사나래.pptx](https://github.com/user-attachments/files/15509623/ICT._.pptx)
 
